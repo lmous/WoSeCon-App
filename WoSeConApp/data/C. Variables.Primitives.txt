@@ -1,0 +1,25 @@
+local variable|A variable that has local scope
+scope|The part of a program where an identifier is valid
+variable life time|The time between the destruction and the creation of an object 
+identifier|Token which name a language entity
+initialization|The first assignment
+reserved word|A word that cannot be used as an identifier
+Primitive Data Type|A data type provided by a programming language as a basic building block
+Strong typed language|A programming language that has strict typing rules at compile time
+Weak typed language|A programming language that has weak typing rules at compile time
+exponential notation|The number format "m times ten raised to the power of n", where m real number and n integer
+value variable|A variable that stores in its storage its value
+reference variable|A variable that stores in its storage the address of its value
+formal parameter|A parameter declared in the parameter list of the  definition of a function
+actual parameter|A variable or value that is passed as a parameter in a function when the function is invoked
+constant|A variable that cannot change its value after the first assignment
+prefix increment|The operation that increases the value of its argument by one and returns the increased value
+postfix increment|The operation that increases the value of its argument by one and returns the value before the increment
+pointer|A variable that accepts memory addresses as values
+compiler|A computer program that translates source code written in one programming language into another language
+interpreter|A computer program that executes instructions written in a programming, without requiring them previously to have been compiled
+Virtual machine|An emulation of a computer system
+source code|Code that is written in a high-level programming language
+object code|The product of a Compiler
+byte code|An instruction set designed for efficient execution by a software interpreter
+Just-In-Time Compiler|A Compiler that performs compilation during the execution of a program, rather than before execution

@@ -1,0 +1,57 @@
+/* 
+    Created on : 27 Νοε 2018, 10:59:07 πμ
+    Author     : Lefteris Moussiades <lmous@teiemt.gr>
+*/
+
+.root {
+
+}
+
+VBox {
+    -fx-alignment: CENTER;
+    -fx-padding: 10;
+    -fx-pref-height: 120;
+    -fx-spacing: 4;
+    /* 
+    -fx-pref-width: 100;
+    */
+}
+
+
+
+
+#gridPane{
+   /* -fx-background-color: yellow;
+     -fx-pref-height:250; */
+    -fx-pref-width:600
+
+}
+
+#messageArea {
+    /*-fx-background-color: red;*/
+    -fx-pref-height: 200;
+    -fx-pref-width:200
+
+}
+
+#explanationArea {
+    -fx-pref-height:120;
+}
+
+#letterLabel {
+    /*-fx-background-color: red;*/
+    -fx-alignment: center;
+    -fx-font-size:14;
+  /*  -fx-text-fill:white; */
+    -fx-max-width:infinity;
+    -fx-max-height:infinity; 
+}
+
+#progressIndicator {
+    -fx-font-size:8;
+   /* -fx-progress-color: red; */
+    -fx-max-height:30;
+    -fx-max-width:30;
+}
+
+

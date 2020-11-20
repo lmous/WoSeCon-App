@@ -1,0 +1,11 @@
+boardLines=22
+boardClmns=22
+maxWords=15
+FontRandomChar=0xffffffff
+BackGroundRandomChar=0x990000ff
+FontWord=0x000000ff
+BackGroundWord=0xffffccff
+FontTempOpen=0xFFFFFF
+BackGroundTempOpen=0x000000ff
+FontPerOpen=0x000000ff
+BackGroundPerOpen=0xffffffff
